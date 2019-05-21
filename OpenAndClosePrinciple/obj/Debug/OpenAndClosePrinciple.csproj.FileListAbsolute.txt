@@ -1,0 +1,7 @@
+C:\App\Development\C# Projects\OpenAndClosePrinciple\OpenAndClosePrinciple\bin\Debug\OpenAndClosePrinciple.exe.config
+C:\App\Development\C# Projects\OpenAndClosePrinciple\OpenAndClosePrinciple\bin\Debug\OpenAndClosePrinciple.exe
+C:\App\Development\C# Projects\OpenAndClosePrinciple\OpenAndClosePrinciple\bin\Debug\OpenAndClosePrinciple.pdb
+C:\App\Development\C# Projects\OpenAndClosePrinciple\OpenAndClosePrinciple\obj\Debug\OpenAndClosePrinciple.csprojAssemblyReference.cache
+C:\App\Development\C# Projects\OpenAndClosePrinciple\OpenAndClosePrinciple\obj\Debug\OpenAndClosePrinciple.csproj.CoreCompileInputs.cache
+C:\App\Development\C# Projects\OpenAndClosePrinciple\OpenAndClosePrinciple\obj\Debug\OpenAndClosePrinciple.exe
+C:\App\Development\C# Projects\OpenAndClosePrinciple\OpenAndClosePrinciple\obj\Debug\OpenAndClosePrinciple.pdb
